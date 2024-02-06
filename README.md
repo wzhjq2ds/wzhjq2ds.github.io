@@ -1,4 +1,3 @@
-# wzhjq2ds.github.io
->这是[Windows10555 Team](https://windows10555.github.io)为wzhjq2ds所做的基础页面。
+难能可贵的改下，都没思路的话找一个就好。
 
-正式版页面**正在制作中**。
+该网页由[Windows10555 Team](https://www.windows10555.gq/)承接。
